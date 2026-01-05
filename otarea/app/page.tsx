@@ -35,7 +35,8 @@ export default function Home() {
       <LatestPost />
       </div>
 
-      <div className="flex items-center justify-between gap-2 px-5 my-5">
+      <div className="flex items-center justify-between gap-3 px-5 my-5">
+        <PostCard />
         <PostCard />
         <PostCard />
         <PostCard />
