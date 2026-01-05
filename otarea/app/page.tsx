@@ -25,7 +25,7 @@ export default function Home() {
         </div>
 
         <div className="image absolute top-[20%] right-20 flex items-center justify-center">
-          <Image src={'/hero-image.svg'} alt="hero" width={1000} height={1000} className="w-[600px] h-[350px] object-cover" />
+          <Image src={'/heroPng.png'} alt="hero" width={1000} height={1000} className="w-[600px] h-[350px] object-cover" />
         </div>
       </Hero>
 
